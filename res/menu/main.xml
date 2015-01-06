@@ -1,0 +1,20 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+	 <item 
+        android:id="@+id/opcion_agregar"
+    	android:title="Contactar">
+	     <menu>
+	         <item android:id="@+id/TelefonoEmpresa"
+	               android:title="Telefono Empresa"/>
+	         <item android:id="@+id/TelefonoContacto"
+	               android:title="@string/TelefonoContacto"/>
+	     </menu>
+    </item> 
+	<item  
+	    android:id="@+id/opcion_editar"
+    	android:title="@string/opcion_editar">
+	</item>
+	<item  
+	    android:id="@+id/opcion_eliminar"
+    	android:title="@string/opcion_eliminar">
+	</item>
+</menu>

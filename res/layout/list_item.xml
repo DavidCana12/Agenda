@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="horizontal" >
+
+    <TextView
+        android:id="@+id/textView1"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:layout_weight="77.74"
+        android:text="Large Text"
+        android:textAppearance="?android:attr/textAppearanceSmall" />
+
+    <ImageButton
+        android:id="@+id/imageButton1"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:onClick="removeAtomPayOnClickHandler"
+        android:src="@drawable/mmmm" />
+
+    <EditText
+        android:id="@+id/editText1"
+        android:layout_width="42dp"
+        android:layout_height="match_parent"
+        android:ems="10"
+        android:inputType="numberDecimal"
+        android:text="@string/Valor" />
+
+    <ImageButton
+        android:id="@+id/imageButton2"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:onClick="removeAtomPayOnClickHandler"
+        android:src="@drawable/mmmm" />
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="TextView"
+        android:visibility="gone" />
+
+    <ImageButton
+        android:id="@+id/ImageButton01"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:layout_weight="1.02"
+        android:onClick="removeAtomPayOnClickHandler"
+        android:src="@drawable/mmmm" />
+
+</LinearLayout>

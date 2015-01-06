@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">VentasCRM</string>
+    <string name="action_settings">Settings</string>
+    <string name="Aceptar">Aceptar</string>
+    <string name="Cancelar">Cancelar</string>
+    <string name="Nombre">Nombre</string>
+    <string name="Descripcion">Descripción</string>
+    <string name="Descripcion2">Descripción</string>
+    <string name="Agregar">Agregar</string>
+    <string name="ID">ID</string>
+    <string name="Buscar">Buscar</string>
+	<string name="opcion_agregar">Agregar</string>
+	<string name="opcion_editar">Editar</string>
+	<string name="opcion_eliminar">Eliminar</string>
+	<string name="TelefonoContacto">Telefono Contacto</string>	
+	<string name="Prospecto">Prospecto</string>	
+	<string name="RazonSocial">Razón Social</string>	
+	<string name="RifEmpresa">Rif</string>	
+	<string name="TelefonoEmpresa">Telefono Empresa</string>	
+	<string name="Email">Email</string>	
+	<string name="Observacion">Observación</string>	
+	<string name="NombreContacto">Nombre Contacto</string>
+	<string name="AgregarEvento">Agregar Evento</string>
+	<string name="EventoDia">Evento Dia</string>	
+	<string name="EventodelaFecha">Evento de la Fecha</string>
+	<string name="Valor">0</string>
+	<string name="Total">Total</string>
+	<string name="IVA">IVA</string>
+	<string name="TotalGeneral">Total General</string>
+	<string name="TotalMonto">0.00</string>
+	<string name="IVAMonto">0.00</string>
+	<string name="TotalGeneralMonto">0.00</string>
+	<string name="AgregarProducto">Agregar Servicio</string>
+	<string name="Totalizar">Totalizar</string>
+	<string name="Volver">Volver</string>
+	<string name="Efectivo">Efectivo</string>
+	<string name="Cheque">Cheque</string>
+	<string name="InstrumentoPago">Instrumento Pago</string>
+	<string name="ListaServicios">Lista de Servicios Agrgados</string>
+	<string name="ServiciosAgregados">Servicios en Lista</string>
+
+</resources>
